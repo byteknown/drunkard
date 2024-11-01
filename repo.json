@@ -5,18 +5,18 @@
         "Description": "traffic for your venue",
         "InternalName": "VenueTraffic",
         "AssemblyVersion": "3.0.0.1",
-        "RepoUrl": "https://github.com/byteknown/venuetraffic",
+        "RepoUrl": "https://github.com/byteknown/drunkard",
         "ApplicableVersion": "any",
         "Tags": [
             "minigames",
             "discord"
         ],
         "DalamudApiLevel": 10,
-        "DownloadLinkInstall": "https://github.com/byteknown/venuetraffic/raw/main/VenueTraffic/latest.zip",
+        "DownloadLinkInstall": "https://github.com/byteknown/drunkard/raw/main/VenueTraffic/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/byteknown/venuetraffic/raw/main/VenueTraffic/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/byteknown/venuetraffic/raw/main/VenueTraffic/latest.zip",
+        "DownloadLinkTesting": "https://github.com/byteknown/drunkard/raw/main/VenueTraffic/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/byteknown/drunkard/raw/main/VenueTraffic/latest.zip",
         "LastUpdated": "08112023"
     }
 
