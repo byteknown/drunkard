@@ -12,11 +12,11 @@
             "discord"
         ],
         "DalamudApiLevel": 10,
-        "DownloadLinkInstall": "https://github.com/byteknown/drunkard/raw/main/VenueTraffic/latest.zip",
+        "DownloadLinkInstall": "https://github.com/byteknown/drunkard/raw/main/DLDrunkard/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/byteknown/drunkard/raw/main/VenueTraffic/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/byteknown/drunkard/raw/main/VenueTraffic/latest.zip",
+        "DownloadLinkTesting": "https://github.com/byteknown/drunkard/raw/main/DLDrunkard/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/byteknown/drunkard/raw/main/DLDrunkard/latest.zip",
         "LastUpdated": "08112023"
     }
 
