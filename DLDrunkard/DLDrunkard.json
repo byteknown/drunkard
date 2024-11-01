@@ -2,7 +2,7 @@
   "Author": "Moonhell",
   "Name": "DLGamba",
   "InternalName": "DLDrunkard",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "2.0.0.0",
   "Description": "Open the main window using /gamba",
   "ApplicableVersion": "any",
   "Tags": [
